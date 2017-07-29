@@ -1,0 +1,1 @@
+7 7 * * * root rsync -avz --delete /root/backup/db/ root@stephdl.dyndns.org:/root/SauvMysqlAubrac
